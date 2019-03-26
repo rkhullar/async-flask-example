@@ -1,0 +1,11 @@
+-r requirements.txt
+
+moto==1.3.7
+requests-mock==1.5.2
+
+aiohttp
+asynctest
+pytest-asyncio
+
+nose
+coverage
